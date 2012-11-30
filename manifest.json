@@ -1,0 +1,20 @@
+// http://developer.chrome.com/extensions/manifest.html
+{
+  "manifest_version": 2,
+  "name": "Sort Tabs",
+  "version": "1.0.0",
+  "description": "Change tabs order with url/title",
+  "icons": 
+  {
+  },
+  "permissions": ["tabs"],
+  "background": {
+    "scripts": [
+      "sort.js"
+    ]
+  },
+  "browser_action": {
+    "default_title": "Sort Tabs"
+  }
+}
+
