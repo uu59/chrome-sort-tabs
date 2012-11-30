@@ -1,0 +1,11 @@
+# Sort Tabs
+
+![before](https://raw.github.com/uu59/chrome-sort-tabs/master/before.png)
+
+↓
+
+![after](https://raw.github.com/uu59/chrome-sort-tabs/master/after.png)
+
+# TODO
+
+Provide $5 for Registration to Google.
